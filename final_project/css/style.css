@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Poppins:400,700&display=swap');
+
+h1 {
+  font-family: "Bowlby One SC", cursive;
+  font-size: 55px;
+  letter-spacing: 4px;
+  margin-left: 80px;
+}
+
+h2 {
+  margin-left: 50px;
+}
+
+#subtitle {
+  margin-left: 100px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.blogpost {
+  display: inline-block;
+  margin: 0 auto;
+  width: 27%;
+  height: 700px;
+  border: 2px solid aqua;
+  padding: 15px;
+  float: left;
+  margin: 10px;
+}
+
+#harry_png {
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-top: -50px;
+  margin-bottom: -50px;
+}
+
+img {
+  display: inline-block;
+  margin: 0 auto;
+  width: 27%;
+  height: 600px;
+  padding: 15px;
+  float: left;
+  margin: 10px;
+}
